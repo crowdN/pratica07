@@ -1,0 +1,14 @@
+.formulario {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #f3e8ff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.botoes {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
